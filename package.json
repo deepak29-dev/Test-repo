@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/deepakxsingh/Test-repo/issues"
   },
-  "homepage": "https://github.com/deepakxsingh/Test-repo#readme"
+  "homepage": "https://github.com/deepakxsingh/Test-repo#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
